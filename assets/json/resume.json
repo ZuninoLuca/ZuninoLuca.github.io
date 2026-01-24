@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Luca Zunino",
+    "label": "Machine Learning & Robotics Research Engineer",
+    "image": "",
+    "email": "lucazunino1999@icloud.com",
+    "url": "https://lucazunino.com",
+    "summary": "Machine Learning & Robotics Research Engineer specializing in vision-language-action models for autonomous driving, bio-inspired robotics, and efficient ML systems. Published in Science Robotics with journal cover article.",
+    "location": {
+      "address": "",
+      "postalCode": "71032",
+      "city": "Böblingen",
+      "countryCode": "DE",
+      "region": "Baden-Württemberg"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "lucazunino",
+        "url": "https://linkedin.com/in/lucazunino"
+      },
+      {
+        "network": "GitHub",
+        "username": "ZuninoLuca",
+        "url": "https://github.com/ZuninoLuca"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bosch Research",
+      "location": "Renningen, Germany",
+      "position": "Research Engineer, Industrial PhD Program",
+      "url": "https://www.bosch.com/research/",
+      "startDate": "2024-03-15",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Developed efficient vision-language-action models for end-to-end autonomous driving, achieving 1.9x inference speedup while preserving 99% of baseline accuracy",
+        "Mentored a master's student on interpretability of vision-language-action models, guiding development of attention visualization frameworks and decision attribution techniques",
+        "Co-inventor on 6 patent disclosures covering vision-language architectures, multimodal perception systems, and end-to-end autonomous driving frameworks",
+        "Led exploratory integration of HD map generation with vision-language models to enhance scene understanding"
+      ]
+    },
+    {
+      "name": "Rigi Technologies S.A.",
+      "location": "Lausanne, Switzerland",
+      "position": "Software Developer Intern",
+      "url": "https://rigi.tech",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-28",
+      "summary": "",
+      "highlights": [
+        "Implemented emergency failsafe procedures for autonomous drones, including return-to-base protocols and mode transitions to ensure operational safety and regulatory compliance",
+        "Developed path planning algorithms for drone navigation, boosting route efficiency in BVLOS delivery operations"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "EPFL - École Polytechnique Fédérale de Lausanne",
+      "location": "Lausanne, Switzerland",
+      "url": "https://www.epfl.ch/",
+      "area": "Robotics",
+      "studyType": "Master of Science",
+      "startDate": "2021-09-01",
+      "endDate": "2024-02-28",
+      "score": "5.84/6.0",
+      "courses": [
+        "Graduated with distinction (5.84/6.0). Focus: Robotics, Machine Learning, Deep Learning, NLP",
+        "Master's thesis (grade 6.0/6.0): developed a reinforcement learning framework for neuromechanical simulations of zebrafish locomotion, outperforming hand-tuned neural models in complex environments",
+        "Two-year research at BioRob Lab (Prof. A. Ijspeert) on zebrafish embodied neural circuits and bio-inspired control",
+        "Teaching Assistant for the course 'Evolutionary Robotics' (Prof. D. Floreano); BioRob Laboratory Guide"
+      ]
+    },
+    {
+      "institution": "Politecnico di Torino",
+      "location": "Turin, Italy",
+      "url": "https://www.polito.it/",
+      "area": "Electronic & Communications Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-09-01",
+      "endDate": "2021-07-31",
+      "score": "110/110 cum laude",
+      "courses": [
+        "Graduated with highest honors (110/110 cum laude). Focus: Electronics, Computer Science, Control Theory",
+        "Selected for competitive Honor Teaching Program (top-performing students)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Science Robotics Journal Cover Article",
+      "date": "2025",
+      "awarder": "Science Robotics",
+      "url": "",
+      "summary": "Research on artificial embodied circuits featured on the cover of Science Robotics and covered by Italian national media"
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Artificial embodied circuits uncover neural architectures of vertebrate visuomotor behaviors",
+      "publisher": "Science Robotics",
+      "releaseDate": "2025",
+      "url": "https://www.science.org/doi/10.1126/scirobotics.adv4408",
+      "summary": "Cover Article. Co-author: Liu, X., Loring, M.D., Zunino, L., et al."
+    },
+    {
+      "name": "Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning",
+      "publisher": "Educational Data Mining Conference (EDM 2024)",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2405.20079",
+      "summary": "Co-first author: Gado, E.G., Martorella, T., Zunino, L., et al."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine Learning & AI",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch",
+        "CUDA",
+        "Transformers",
+        "HuggingFace",
+        "Vision-Language-Action Models",
+        "Reinforcement Learning",
+        "Deep Learning",
+        "MMDetection",
+        "OpenCV"
+      ]
+    },
+    {
+      "name": "Robotics & Autonomous Systems",
+      "level": "Expert",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "CARLA Simulator",
+        "End-to-End Autonomous Driving",
+        "Bio-inspired Robotics",
+        "Control Theory"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C",
+        "Git",
+        "Docker",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Areas",
+      "icon": "fa-solid fa-microscope",
+      "keywords": [
+        "Machine Learning",
+        "End-to-end autonomous driving",
+        "Vision-Language-Action models",
+        "Efficient & interpretable ML",
+        "Bio-inspired robotics",
+        "Embodied AI"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -1,0 +1,10 @@
+repo_description_lines_max: 2
+
+github_repos:
+  - ZuninoLuca/Aerial_robotics
+  - ZuninoLuca/Evolutionary_robotics
+  - ZuninoLuca/Controlling_behavior_in_animals_and_robots
+  - ZuninoLuca/Basics_of_mobile_robotics
+  - ZuninoLuca/Image_analysis_and_pattern_recognition
+  - ZuninoLuca/Modern_natural_language_processing
+  
