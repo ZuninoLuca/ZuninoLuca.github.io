@@ -101,6 +101,13 @@
   "certificates": [],
   "publications": [
     {
+      "name": "Energy efficiency and neural control of continuous versus intermittent swimming in a fishlike robot",
+      "publisher": "Science Robotics",
+      "releaseDate": "2026",
+      "url": "https://www.science.org/doi/10.1126/scirobotics.adw7868",
+      "summary": "Co-author: Liu, X., Longchamp, F.A., Zunino, L., et al."
+    },
+    {
       "name": "Artificial embodied circuits uncover neural architectures of vertebrate visuomotor behaviors",
       "publisher": "Science Robotics",
       "releaseDate": "2025",
