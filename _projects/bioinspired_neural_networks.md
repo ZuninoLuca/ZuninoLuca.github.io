@@ -3,8 +3,8 @@ layout: page
 title: Bio-Inspired Neural Networks for OMR & Rheotaxis
 description: EPFL Master’s thesis
 img: assets/img/project_covers/simzfish.png
-importance: 3
-category: research
+importance: 1
+category: master's
 ---
 
 ## At a glance

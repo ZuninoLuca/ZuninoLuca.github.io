@@ -27,10 +27,10 @@ category: research
 
 ## Journal Cover Feature & International Recognition
 
-This research was featured on the **cover of Science Robotics** (October 2025, Volume 10, Issue 107) and received **international media coverage**, including articles in major Italian national newspapers.
+This research was featured on the **cover of Science Robotics** (October 2025, Volume 10, Issue 107) as **Artificial embodied circuits uncover neural architectures of vertebrate visuomotor behaviors** (Liu, Loring, Zunino, et al.) and received **international media coverage**, including articles in major Italian national newspapers.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/scirob_cover.jpg" title="Science Robotics Cover" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -155,3 +155,4 @@ I worked at EPFL's BioRob Laboratory for over two years across two semester proj
 ## Acknowledgements
 
 Source of the cover image: Olivier Porchet, EPFL
+Complete author list: Xiangxiao Liu, Matthew D. Loring, Luca Zunino, Kaitlyn E. Fouke, François A. Longchamp, Alexandre Bernardino, Auke J. Ijspeert, Eva A. Naumann.
