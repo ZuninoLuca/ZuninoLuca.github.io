@@ -18,8 +18,8 @@ category: research
 This work was published in *Science Robotics* in January 2026 as **"Energy efficiency and neural control of continuous versus intermittent swimming in a fishlike robot"** (Liu, Longchamp, Zunino, et al.).
 
 <div class="row justify-content-center">
-    <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot_frontal.jpg" title="ZBot platform" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-10 col-md-8 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot.jpg" title="ZBot platform" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -47,8 +47,8 @@ We developed **ZBot**, a zebrafish-inspired robotic platform designed to **embod
 - Experiments can systematically vary gait parameters while recording both **performance** and **energy consumption**.
 
 <div class="row justify-content-center">
-    <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot.jpeg" title="ZBot platform, frontal view" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-10 col-md-8 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot_frontal.jpeg" title="ZBot platform, frontal view" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -71,7 +71,7 @@ ZBot is designed to reproduce the qualitative structure of larval swimming while
   Beyond lab-style tank experiments, the system can be deployed in real environments (e.g., stationary water outdoors) for realistic hydrodynamic conditions.
 
 <div class="row justify-content-center">
-    <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
+    <div class="col-sm-10 col-md-8 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/field_setup.png" title="Experimental setup (Lake Geneva)" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
