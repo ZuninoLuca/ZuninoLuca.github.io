@@ -29,6 +29,15 @@ category: research
 
 This research was featured on the **cover of Science Robotics** (October 2025, Volume 10, Issue 107) and received **international media coverage**, including articles in major Italian national newspapers.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/scirob_cover.jpg" title="Science Robotics Cover" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Science Robotics journal cover featuring our research on embodied neural circuits (October 2025).
+</div>
+
 > **Project Highlights**
 > - **Publication:** Cover article in *Science Robotics* (Impact Factor ~25)
 > - **My Role:** Led robotic control software development; conducted real-world river validation experiments
