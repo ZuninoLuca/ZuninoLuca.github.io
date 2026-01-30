@@ -15,7 +15,16 @@ category: research
     </div>
 </div>
 
-This work was published in *Science Robotics* in January 2026 as **Energy efficiency and neural control of continuous versus intermittent swimming in a fishlike robot** (Liu, Longchamp, Zunino, et al.).
+This work was published in *Science Robotics* in January 2026 as **"Energy efficiency and neural control of continuous versus intermittent swimming in a fishlike robot"** (Liu, Longchamp, Zunino, et al.).
+
+<div class="row justify-content-center">
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot.jpeg" title="ZBot platform" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  ZBot: a zebrafish-inspired robotic swimmer designed for controlled studies of intermittent locomotion. <small>[Source: Xiangxiao Liu, BioRob, EPFL]</small>
+</div>
 
 ## Why Intermittent Swimming Matters
 
@@ -37,13 +46,13 @@ We developed **ZBot**, a zebrafish-inspired robotic platform designed to **embod
 - The controller implements a mechanistic hypothesis of how bouts are initiated, shaped, and terminated,
 - Experiments can systematically vary gait parameters while recording both **performance** and **energy consumption**.
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot.jpeg" title="ZBot platform" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot.jpeg" title="ZBot platform, frontal view" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  ZBot: a zebrafish-inspired robotic swimmer designed for controlled studies of intermittent locomotion. [Source: Xiangxiao Liu, BioRob, EPFL]
+  Frontal view of ZBot, the robotic platform we used in our swimming experiments. <small>[Source: Xiangxiao Liu, BioRob, EPFL]</small>
 </div>
 
 ---
@@ -61,13 +70,13 @@ ZBot is designed to reproduce the qualitative structure of larval swimming while
 - **Field-ready testing**  
   Beyond lab-style tank experiments, the system can be deployed in real environments (e.g., stationary water outdoors) for realistic hydrodynamic conditions.
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/projects/bout_glide/field_setup.png" title="Experimental setup (Lake Geneva)" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  Outdoor experiments in stationary water (Lake Geneva harbor). [Source: Xiangxiao Liu, BioRob, EPFL]
+  Outdoor experiments in stationary water (Lake Geneva harbor). <small>[Source: Xiangxiao Liu, BioRob, EPFL]</small>
 </div>
 
 ---
@@ -76,6 +85,7 @@ ZBot is designed to reproduce the qualitative structure of larval swimming while
 
 A key scientific challenge is that intermittent swimming is not simply “continuous swimming with pauses”.
 It requires a controller that can:
+
 1) **Trigger a bout**,  
 2) **Shape the bout** (frequency, amplitude, symmetry/asymmetry for turning), and  
 3) **Stop the bout** and transition into a passive glide.
@@ -132,5 +142,5 @@ ZBot turns a difficult biological question into an experimentally controllable o
 
 ## Acknowledgements
 
-Source of the cover image: Xiangxiao Liu, BioRob, EPFL
+Source of the cover image: Xiangxiao Liu, BioRob, EPFL <br>
 Complete author list: Xiangxiao Liu, François A. Longchamp, Luca Zunino, Louis Gevers, Lisa R. Schneider, Selina I. Bothner, André Guignard, Alessandro Crespi, Guillaume Bellegarda, Alexandre Bernardino, Eva A. Naumann, Auke J. Ijspeert.
