@@ -19,7 +19,7 @@ This work was published in *Science Robotics* in January 2026 as **"Energy effic
 
 <div class="row justify-content-center">
     <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot.jpeg" title="ZBot platform" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/ZBot_frontal.jpg" title="ZBot platform" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -72,7 +72,7 @@ ZBot is designed to reproduce the qualitative structure of larval swimming while
 
 <div class="row justify-content-center">
     <div class="col-sm-8 col-md-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/bout_glide/field_setup.png" title="Experimental setup (Lake Geneva)" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/energy_efficiency_neural/field_setup.png" title="Experimental setup (Lake Geneva)" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
