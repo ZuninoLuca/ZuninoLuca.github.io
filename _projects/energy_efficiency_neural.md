@@ -61,14 +61,9 @@ We developed **ZBot**, a zebrafish-inspired robotic platform designed to **embod
 
 ZBot is designed to reproduce the qualitative structure of larval swimming while remaining experimentally practical:
 
-- **Articulated tail with multiple joints**  
-  The tail is composed of **six hinge joints actuated by servomotors**, enabling undulatory wave generation and modulation.
-
-- **Repeatable, measurable experiments**  
-  The platform supports repeated trials under matched conditions, enabling parameter sweeps that are infeasible in animal studies.
-
-- **Field-ready testing**  
-  Beyond lab-style tank experiments, the system can be deployed in real environments (e.g., stationary water outdoors) for realistic hydrodynamic conditions.
+- **Articulated tail with multiple joints**: The tail is composed of **six hinge joints actuated by servomotors**, enabling undulatory wave generation and modulation.
+- **Repeatable, measurable experiments**: The platform supports repeated trials under matched conditions, enabling parameter sweeps that are infeasible in animal studies.
+- **Field-ready testing**: Beyond lab-style tank experiments, the system can be deployed in real environments (e.g., stationary water outdoors) for realistic hydrodynamic conditions.
 
 <div class="row justify-content-center">
     <div class="col-sm-10 col-md-8 mt-3 mt-md-0">
