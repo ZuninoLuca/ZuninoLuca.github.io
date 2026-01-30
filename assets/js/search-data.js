@@ -431,6 +431,11 @@ ninja.data = [{
           description: "How brain-body-environment integration shapes sensorimotor processing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/embodied_neural_circuits/";
+            },},{id: "projects-neural-control-strategies-for-energy-efficient-swimming",
+          title: 'Neural Control Strategies for Energy-Efficient Swimming',
+          description: "A zebrafish-inspired robot to study the control and energetic trade-offs of intermittent swimming",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/energy_efficiency_neural/";
             },},{id: "projects-evolving-a-locomoting-robot",
           title: 'Evolving a locomoting robot',
           description: "Final project for the EPFL course &quot;Evolutionary Robotics&quot;",
